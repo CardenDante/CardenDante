@@ -1,18 +1,31 @@
   
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Daniel+👋;Full+Stack+Developer;API+Design+Expert;DevOps+Enthusiast" alt="Typing SVG" />
+</div>
+<p align="left">
+  <a href="https://github.com/CardenDante">
+    <img src="https://img.shields.io/badge/Backend-Developer-success?style=flat" alt="Backend Developer"/>
+  </a>
+  <a href="https://github.com/CardenDante">
+    <img src="https://img.shields.io/badge/API-Expert-blue?style=flat" alt="API Expert"/>
+  </a>
+  <a href="https://github.com/CardenDante">
+    <img src="https://img.shields.io/badge/DevOps-Engineer-orange?style=flat" alt="DevOps Engineer"/>
+  </a>
+</p>
+<div align="left">I'm Daniel, a Software Engineer 👨‍💻 with a great interest in Back End Development. </div>  
+<br/>  
 
-### <div align="center">I'm Daniel, a Software Engineer 👨‍💻 with a great interest in Back End Development. </div>  
-  
+🔭 I’m currently working on [My Portfolio]()  
 
-- 🔭 I’m currently working on [My Portfolio]()  
-  
+🌱 I’m exploring Web3 and Kubernetes (K8s)
 
-- 🌱 I’m currently learning Web3 and K8s  
-  
+💼 Experienced in mobile apps, web apps, websites, APIs, and data pipelines
 
-- ❓ Ask me about anything related to Python stack and related technologies  
-  
+❓ Ask me anything about Python stack, DevOps, or backend development
 
-- ⚡ Fun fact:   
+⚡ Fun fact: I enjoy designing systems that perform efficiently and scale seamlessly
+
   
 
 <br/>  
@@ -114,13 +127,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chacha-A-Chacha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
 
 <br/>  
 
