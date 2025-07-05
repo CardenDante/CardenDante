@@ -93,25 +93,25 @@
 <a href="https://github.com/CardenDante" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://dev.to" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -123,26 +123,26 @@
 
 ---
 <div align="center">
-            <a href="https://paypal.me/vvv" target="chachadaniel44@gmail.com" style="display: inline-block;">
+            <a href="#" target="chachadaniel44@gmail.com" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
             </a>
-            <a href="https://www.buymeacoffee.com/vvv" target="_blank" style="display: inline-block;">
+            <a href="#" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
             </a>
-                <a href="https://liberapay.com/vvv" target="_blank" style="display: inline-block;">
+                <a href="#" target="_blank" style="display: inline-block;">
                     <img
                         src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
                         align="center"
                     />
                 </a>
-            <a href="https://ko-fi.com/chachaalex" target="_blank" style="display: inline-block;">
-                <img
+            <a href="#" target="_blank" style="display: inline-block;">
+                <imgS
                     src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
                     align="center"
                 />
