@@ -16,7 +16,7 @@
 <div align="left">I'm Daniel, a Software Engineer 👨‍💻 with a great interest in Back End Development. </div>  
 <br/>  
 
-🔭 Here is my portfolio [My Portfolio](https://www.chach-a.com/portfolio)  
+ 
 
 🌱 I’m exploring Web3 and Kubernetes (K8s)
 
