@@ -86,35 +86,7 @@
 
 <br/>  
 
-<br/>  
-
-
-
 ---
-<div align="center">
-            <a href="#" target="chachadaniel44@gmail.com" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="#" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a>
-                <a href="#" target="_blank" style="display: inline-block;">
-                    <img
-                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
-                        align="center"
-                    />
-                </a>
-            <a href="#" target="_blank" style="display: inline-block;">
-                <imgS
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
-<br />
+
+        
 
